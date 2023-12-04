@@ -29,9 +29,31 @@ Seasonal and trend decomposition using the Seasonal and Trend decomposition usin
 Trend modeling using the ARIMA model and the auto.ARIMA algorithm for automatic hyper-parameter tuning. In auto.ARIMA, dozens of candidate models are trained and evaluated in parallel. The best model comes with the lowest Akaike information criterion (AIC).
 We can use a single SQL statement to train the model to forecast a single product or to forecast multiple products at the same time. For more information, see The CREATE MODEL statement for time series models.
 
+
+
+# Deployment quick guide:
+1. Create a new project on GCP platform
+2. Enable BigQuery, Vertex AI, AI platform, LookerStudio services and create new instance and new notebook with python kernel -- You are ready to run sales forecast
+3. Prepare training dataset
+3.1. Upload/Import dataset in Cloud storage and BigQuery, create training dataset under your project or
+3.2. Enable Streamming by Dataflow for data training preparation
+4. Develop and train model followed by making prediction
+5. Export output as predicted sales for further usage as monitoring dashboard
+
+
+
+## Suggestion for further deployment
+1. Adding lagging and rolling features to the model for each training window
+2. Considering using advanced models like XGBoost or LightGBM 
+3. Adding insightful features like Top 25 Rising queries from **Google Trends** <td>
+      <a href="https://console.cloud.google.com/marketplace/product/bigquery-public-datasets/google-search-trends?_ga=2.261190030.2019434361.1656948847-1975246695.1656948843&project=galvanic-portal-404814">
+        <img src="https://i.ibb.co/RhC6V4R/googletrends-81-1-1.png" alt="">dataset Google trends on Google BigQuery </a>
+    </td>
+
 Adding insightful features like Top 25 Rising queries from **Google Trends** <td>
       <a href="https://console.cloud.google.com/marketplace/product/bigquery-public-datasets/google-search-trends?_ga=2.261190030.2019434361.1656948847-1975246695.1656948843&project=galvanic-portal-404814">
         <img src="https://i.ibb.co/RhC6V4R/googletrends-81-1-1.png" alt="">dataset Google trends on Google BigQuery </a>
     </td>
+
 
 
