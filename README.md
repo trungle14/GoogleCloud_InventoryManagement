@@ -50,10 +50,5 @@ We can use a single SQL statement to train the model to forecast a single produc
         <img src="https://i.ibb.co/RhC6V4R/googletrends-81-1-1.png" alt="">dataset Google trends on Google BigQuery </a>
     </td>
 
-Adding insightful features like Top 25 Rising queries from **Google Trends** <td>
-      <a href="https://console.cloud.google.com/marketplace/product/bigquery-public-datasets/google-search-trends?_ga=2.261190030.2019434361.1656948847-1975246695.1656948843&project=galvanic-portal-404814">
-        <img src="https://i.ibb.co/RhC6V4R/googletrends-81-1-1.png" alt="">dataset Google trends on Google BigQuery </a>
-    </td>
-
 
 
