@@ -42,7 +42,7 @@ We can use a single SQL statement to train the model to forecast a single produc
 
 Here is the example how we can integrate forecasted sales into current dashboard
 
-<img src="[https://i.ibb.co/RhC6V4R/googletrends-81-1-1.png](https://ibb.co/51NCZF8"><img src="https://i.ibb.co/D1xmdpC/Picture1.png)" alt="">dataset Google trends on Google BigQuery </a>
+<img src="[https://i.ibb.co/RhC6V4R/googletrends-81-1-1.png](https://ibb.co/51NCZF8"><img src="https://i.ibb.co/D1xmdpC/Picture1.png)" alt=""></a>
     </td>
 
 
@@ -56,7 +56,7 @@ Here is the example how we can integrate forecasted sales into current dashboard
     </td>
 
 ## Docoments
-Presentation Recording: https://drive.google.com/drive/folders/10sqrokr8ALe_fKzUdjW9fA7lG0nPl5Fk?usp=drive_link
+Presentation Recording: https://drive.google.com/drive/folders/10sqrokr8ALe_fKzUdjW9fA7lG0nPl5Fk?usp=drive_link\
 Interactive dashboard: https://lookerstudio.google.com/reporting/ebea5752-963e-4a55-aa45-ebb846519557/page/p_057twy79bd?s=nIzjhrMlO8g
 
 
