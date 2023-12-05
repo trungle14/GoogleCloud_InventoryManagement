@@ -40,6 +40,11 @@ We can use a single SQL statement to train the model to forecast a single produc
 4. Develop and train model followed by making prediction
 5. Export output as predicted sales for further usage as monitoring dashboard
 
+Here is the example how we can integrate forecasted sales into current dashboard
+
+<img src="[https://i.ibb.co/RhC6V4R/googletrends-81-1-1.png](https://ibb.co/51NCZF8"><img src="https://i.ibb.co/D1xmdpC/Picture1.png)" alt="">dataset Google trends on Google BigQuery </a>
+    </td>
+
 
 
 ## Suggestion for further deployment
