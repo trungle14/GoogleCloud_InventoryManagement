@@ -52,11 +52,12 @@ Here is the example how we can integrate forecasted sales into current dashboard
 2. Considering using advanced models like XGBoost or LightGBM 
 3. Adding insightful features like Top 25 Rising queries from **Google Trends** <td>
       <a href="https://console.cloud.google.com/marketplace/product/bigquery-public-datasets/google-search-trends?_ga=2.261190030.2019434361.1656948847-1975246695.1656948843&project=galvanic-portal-404814">
-        <img src="https://i.ibb.co/RhC6V4R/googletrends-81-1-1.png" alt="">dataset Google trends on Google BigQuery </a>
+        <img src="https://i.ibb.co/RhC6V4R/googletrends-81-1-1.png" alt=""></a>
     </td>
 
 ## Docoments
 Presentation Recording: https://drive.google.com/drive/folders/10sqrokr8ALe_fKzUdjW9fA7lG0nPl5Fk?usp=drive_link
+Interactive dashboard: https://lookerstudio.google.com/reporting/ebea5752-963e-4a55-aa45-ebb846519557/page/p_057twy79bd?s=nIzjhrMlO8g
 
 
 
