@@ -56,7 +56,7 @@ Here is the example how we can integrate forecasted sales into current dashboard
     </td>
 
 ## Docoments
-Presentation Recording: https://drive.google.com/drive/folders/10sqrokr8ALe_fKzUdjW9fA7lG0nPl5Fk?usp=drive_link
+Presentation Recording: [https://drive.google.com/drive/folders/10sqrokr8ALe_fKzUdjW9fA7lG0nPl5Fk?usp=drive_link](https://drive.google.com/file/d/1Roq84Chgowoh7PfVIuHarL1su3gnZMOA/view?usp=drive_link)
 
 Interactive dashboard: https://lookerstudio.google.com/reporting/ebea5752-963e-4a55-aa45-ebb846519557/page/p_057twy79bd?s=nIzjhrMlO8g
 
