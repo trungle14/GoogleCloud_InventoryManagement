@@ -63,7 +63,7 @@ The fluctuation happened significantly in **Outerwear coats** in Jan, this maybe
         <img src="https://i.ibb.co/RhC6V4R/googletrends-81-1-1.png" alt=""></a>[dataset Google trends on Google BigQuery](https://console.cloud.google.com/marketplace/product/bigquery-public-datasets/google-search-trends?_ga=2.261190030.2019434361.1656948847-1975246695.1656948843&project=galvanic-portal-404814)
     </td>
 
-## Docoments
+## Documents
 Presentation Recording: [https://drive.google.com/file/d/1Roq84Chgowoh7PfVIuHarL1su3gnZMOA/view?usp=drive_link\
 Interactive dashboard: https://lookerstudio.google.com/reporting/ebea5752-963e-4a55-aa45-ebb846519557/page/p_057twy79bd?s=nIzjhrMlO8g
 
