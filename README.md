@@ -46,6 +46,14 @@ Here is the example how we can integrate forecasted sales into current dashboard
     </td>
 
 
+# Predictions results 
+<img width="710" alt="Screenshot 2024-01-20 at 12 22 19" src="https://github.com/trungle14/GoogleCloud_InventoryManagement/assets/143222481/b66e0325-1d5c-4117-95a4-34c13254de3c">
+
+
+The charts show predicted sales forecast across products pretty stable in Feb and Mar 2023, which fall within 90% confidence level, especially for **Hoodies, Fashion Sweatshirts**
+The fluctuation happened significantly in **Outerwear coats** in Jan, this maybe due to seasonal factor regarding the behavior during winter in specific region which is also need to be taken into consideration
+
+
 
 ## Suggestion for further deployment
 1. Adding lagging and rolling features to the model for each training window
